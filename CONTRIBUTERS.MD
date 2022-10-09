@@ -1,5 +1,6 @@
 | Name                  | Github                                                        | Starred the repo |
 | --------------------- | ------------------------------------------------------------- | ---------------- |
+| MarioSec1337          | [@MarioSec1337] (https://github.com/MarioSec1337).           |         1        |
 | Spardha               | [@Spardha-hash](https://github.com/Spardha-hash).            |         0        |
 | Spacify              | [@fts18](https://github.com/fts18)                            |         0        |
 | war0                 | [@war0](https://github.com/war0)                              |         1        |
@@ -212,7 +213,7 @@
 | Krishna Kumar        | [@Krishnapro](https://github.com/Krishnapro)                  |         1        |
 | Vanshika Mishra      | [@vanshika230](https://github.com/vanshika230)                |         1        |
 | Subhadeep Das        | [@Raven1233](https://github.com/Raven1233)                    |         0        |
-| Nishant Kumar Singh  | [@Nishant5476](https://github.com/Nishant5476)                |         1        |
+| Nishant nt Kumar Singh  | [@Nishant5476](https://github.com/Nishant5476)                |         1        |
 | Ayush Singla         | [@Ayush-singla27](https://github.com/Ayush-singla27)          |         0        |
 | Yerkin Myrzabekov    | [@papa-het](https://github.com/Papa-het)                      |         1        |
 | Abhishek Mukherjee|  | [@abhishekkmukherjee](https://github.com/abhishekkmukherjee)  |         0        |
